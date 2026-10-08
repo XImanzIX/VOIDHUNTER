@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="void_black">#07080A</color>
+    <color name="void_elevated">#12151A</color>
+    <color name="void_steel">#C8D0D4</color>
+    <color name="void_cyan">#7EB8C9</color>
+</resources>
